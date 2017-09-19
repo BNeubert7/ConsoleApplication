@@ -8,7 +8,7 @@ namespace ConsoleApplication
         {
             
             //My stuff:
-            //Change
+            //Change that you should see later
             Console.WriteLine("Hellow World!");
             Console.WriteLine("Brandon A. Neubert");
             Console.WriteLine("From Utah, USA");
